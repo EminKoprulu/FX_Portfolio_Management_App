@@ -31,4 +31,5 @@ Foreign Currencies:
 
 
 Commodities:
-![Ekran görüntüsü 2024-01-23 151708](https://github.com/EminKoprulu/FX_Portfolio_Management_App/assets/112729640/c30f1b6c-247f-4732-a53c-178ce2f92f4a)
+![Ekran görüntüsü 2024-01-23 154012](https://github.com/EminKoprulu/FX_Portfolio_Management_App/assets/112729640/d2be263a-a9a8-4921-ab6d-38130557d6c5)
+
